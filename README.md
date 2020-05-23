@@ -1,6 +1,6 @@
 # hello-world
 
-i humans!H
+i humans!
 
 I'm Monica. I'm self-studying to become a GIS developer. 
 
