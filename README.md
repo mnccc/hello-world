@@ -1,7 +1,9 @@
 # hello-world
 
-Hi humans!
+i humans!H
 
 I'm Monica. I'm self-studying to become a GIS developer. 
 
-I hope that by the time this post turns a year old, I have already achieved my goal. 
+I hope to have achieved said goal by the time this post turns a year old.
+
+
